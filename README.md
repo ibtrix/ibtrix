@@ -1,5 +1,4 @@
 ## Bem-vindo(a) ao meu perfil 😁
-  ###Ainda estou começando!
 
  <div>
    <a href="https://github.com/ibtrix">
